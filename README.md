@@ -1,4 +1,4 @@
-<font color="blue"># Data Insights</font>
+-text in red # Data Insights
 
 *1. Average Income by Gender
 
