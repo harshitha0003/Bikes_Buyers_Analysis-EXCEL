@@ -1,4 +1,4 @@
-- text in red # Data Insights
+# Data Insights
 
 *1. Average Income by Gender
 
